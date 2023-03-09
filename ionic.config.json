@@ -1,0 +1,7 @@
+{
+  "name": "BISconnection",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
