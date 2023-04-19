@@ -1,5 +1,5 @@
 {
-  "name": "tweetLand",
+  "name": "ionictwitter",
   "integrations": {
     "cordova": {},
     "capacitor": {}
