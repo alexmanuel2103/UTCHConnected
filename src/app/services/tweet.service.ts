@@ -13,6 +13,7 @@ export class TweetService {
         'Authorization': 'Bearer $2y$10$1irbofmTl7bAuII1O3jaZu4ykkIQAQxFvnnGQ9kHDlxM19lifPxe2'
       })
     }
+    
     return this.http.get(url, options);
   }
 }

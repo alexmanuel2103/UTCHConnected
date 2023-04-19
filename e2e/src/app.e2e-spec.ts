@@ -12,3 +12,4 @@ describe('new App', () => {
     expect(page.getParagraphText()).toContain('The world is your oyster.');
   });
 });
+

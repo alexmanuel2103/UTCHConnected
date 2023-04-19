@@ -12,6 +12,7 @@
           "/*.js"
         ]
       }
+      
     }, {
       "name": "assets",
       "installMode": "lazy",

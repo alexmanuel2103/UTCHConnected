@@ -9,3 +9,4 @@ export class AppPage {
     return element(by.deepCss('app-root ion-content')).getText();
   }
 }
+

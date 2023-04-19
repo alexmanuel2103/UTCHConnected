@@ -15,6 +15,7 @@ export class AuthPage implements OnInit {
         router.navigate(['home']);
     }
   }
+  
   async presentAlert(msg: string) {
     const alert = await this.alertController.create({
       header: 'Please try again...',
